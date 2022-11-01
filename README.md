@@ -18,5 +18,5 @@ Once the timer completes, it should alert the user with a native notification (u
 8. If the app doesn't have appropriate permissions, it should show an alert when the timer reaches zero
 
 # Solution
-Check out Sandbox --> https://codesandbox.io/s/github/leannezhang/React_coding_questions
-Source --> https://github.com/leannezhang/Countdown_timer/blob/main/src/App.js
+1. Check out Sandbox --> https://codesandbox.io/s/github/leannezhang/React_coding_questions
+2. Source --> https://github.com/leannezhang/Countdown_timer/blob/main/src/App.js
