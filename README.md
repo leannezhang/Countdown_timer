@@ -1,8 +1,9 @@
 # Create a countdown timer that allows the user to enter hours, minutes, and seconds.
 Once the timer has started, the input fields should be replaced with plain text that updates every second. The 'Start' button should be replaced with 'Pause' and 'Reset' buttons.
-
+![Countdown-timer-1](https://frontendeval.com/images/countdown-timer-1.png)
 
 Once the timer completes, it should alert the user with a native notification (using the Notification API), or fallback to an alert.
+![Countdown-timer-1](https://frontendeval.com/images/countdown-timer-2.png)
 
 # Requirements
 1. The 'Hours', 'Minutes', and 'Seconds' fields should not have visible labels, but they should be accessible and clearly labelled to a screen reader
