@@ -16,3 +16,6 @@ Once the timer completes, it should alert the user with a native notification (u
 6. While the timer is counting down, the numbers should be zero-padded (e.g. 01 vs 1)
 7. When the timer reaches zero, if the app has appropriate permissions, it should display a Notification that the timer is complete
 8. If the app doesn't have appropriate permissions, it should show an alert when the timer reaches zero
+
+# Solution
+Check out Sandbox --> https://codesandbox.io/s/github/leannezhang/React_coding_questions
